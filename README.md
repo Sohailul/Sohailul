@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/RvpFpZm.png">
 
 - 👋 Hi, I’m Sohailul Alam
-- 👀 I’m interested in Programming, Blockchain, Learning new technologies, and Machine learning
-- 🌱 I’m a Full Stack Web Developer
+- 👀 I’m interested in Blockchain, Machine learning and AI
+- 🌱 I’m a Full Stack Web Developer, Smart Contract Developer, and Digital Marketer
 - 🌱 I’m currently learning Blockchain Developement
 - 📫 How to reach me <a href="https://sohailulalam.blogspot.com">@sohailulalam website</a>
 
